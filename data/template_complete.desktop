@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Template Complete
+Comment=Ferramenta para geração de relatórios a partir de templates
+Exec=/usr/local/bin/template_complete
+Icon=template_complete
+Terminal=false
+Type=Application
+Categories=Utility;Office;
+Keywords=template;report;generator;
+StartupWMClass=TemplateComplete

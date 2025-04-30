@@ -1,8 +1,0 @@
-{
-  "rota_testada": "Gestão de Usuários",
-  "test_case": "TC-015 - Atualizar perfil",
-  "endpoint": "/api/v1/users/profile",
-  "resultado_esperado": "Status 200 e dados atualizados",
-  "resultado_real": "⚠️ Com observações - Status 200 mas campo 'avatar' não atualizado",
-  "observacoes": "Problema no upload de imagens > 2MB"
-}

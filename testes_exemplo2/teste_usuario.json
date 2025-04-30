@@ -1,8 +1,0 @@
-{
-  "rota_testada": "Dados Analíticos",
-  "test_case": "TC-301 - Gerar relatório mensal",
-  "endpoint": "/api/v1/analytics/monthly",
-  "resultado_esperado": "Status 200 e JSON com métricas completas",
-  "resultado_real": "❌ Reprovado - Status 504 Timeout",
-  "observacoes": "Falha com datasets > 500.000 registros"
-}

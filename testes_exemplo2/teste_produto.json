@@ -1,8 +1,0 @@
-{
-  "rota_testada": "Gestão de Inventário",
-  "test_case": "TC-156 - Atualizar estoque",
-  "endpoint": "/api/v1/inventory/update",
-  "resultado_esperado": "Status 200 e novo nível de estoque retornado",
-  "resultado_real": "⚠️ Com observações - Status 200 mas sem atualização em estoque reservado",
-  "observacoes": "Problema na sincronização com warehouse 3"
-}
