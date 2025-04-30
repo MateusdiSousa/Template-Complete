@@ -1,0 +1,8 @@
+{
+    "rota_testada": "Cadastro de Produtos",
+    "test_case": "TC-042 - Criar novo produto",
+    "endpoint": "/api/v1/products",
+    "resultado_esperado": "Status 201 e dados do produto criado",
+    "resultado_real": "❌ Reprovado - Status 500 recebido",
+    "observacoes": "Falha na validação do campo 'preço'"
+  }

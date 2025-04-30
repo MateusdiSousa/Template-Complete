@@ -1,0 +1,8 @@
+{
+  "rota_testada": "Processamento de Pagamentos",
+  "test_case": "TC-205 - Pagamento com cartão válido",
+  "endpoint": "/api/v1/payments/process",
+  "resultado_esperado": "Status 200 e confirmação de pagamento",
+  "resultado_real": "✅ Aprovado - Transação ID: PAY-78910",
+  "observacoes": "Tempo de processamento: 420ms"
+}

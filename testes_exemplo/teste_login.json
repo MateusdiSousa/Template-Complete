@@ -1,0 +1,8 @@
+{
+    "rota_testada": "Autenticação",
+    "test_case": "TC-001 - Login válido",
+    "endpoint": "/api/v1/auth/login",
+    "resultado_esperado": "Status 200 e token JWT retornado",
+    "resultado_real": "✅ Aprovado - Token recebido com sucesso",
+    "observacoes": "Tempo de resposta: 320ms"
+  }
